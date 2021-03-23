@@ -1,12 +1,4 @@
-# Spring_Web-Service
+# Java_se
 
-Spring을 활용한 중고 거래 사이트 
+Java 기초 수업과정
 
-## Skill
-Spring framework
-MVC
-MyBatis
-Tomcat
-Servlet
-Web Socket
-Oracle SQL
